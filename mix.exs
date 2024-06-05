@@ -44,7 +44,7 @@ defmodule Bling.MixProject do
       {:phoenix, "~> 1.7.2"},
       {:phoenix_live_view, "~> 0.20"},
       {:plug, "~> 1.14"},
-      {:stripity_stripe, "~> 2.17"},
+      {:stripity_stripe, "~> 3.2.0"},
       {:postgrex, ">= 0.0.0", only: :test},
       {:faker, "~> 0.17", only: :test},
       {:jason, "~> 1.4"}
